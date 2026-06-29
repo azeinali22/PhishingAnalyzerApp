@@ -1,0 +1,534 @@
+"First Name","Last Name",Email,Template,"Send Time","Phish Status","Email Status",Trained
+Lisa,Nickle,lnickle@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Vanessa,Ryan,VRyan@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Jordan,Gagnon,jgagnon@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Avery,Corvello,ACorvello@drhc.on.ca,"You need to reset your account password",06/15/26,Opened,Delivered,N/A
+Pam,Miller,pmiller@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Johnny,Humphreys,JHumphreys@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Gerard,Okonkwo,gokonkwo@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Opened,Delivered,N/A
+Jason,Grant,JGrant@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Janette,Brannan,jbrannan@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Amy,Hale,AHale@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Amanda,Foster,AFoster@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Sheila,Lyle,slyle@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Jessie,Leutschaft,JLeutschaft@drhc.on.ca,"Lost dog - image linked - BLIND",06/25/26,Phished,Delivered,Complete
+Jenna,Langlais,JLanglais@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Amanda,Williams,AWilliams@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Madison,Iwanyk,miwanyk@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Jessie,Leutschaft,JLeutschaft@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Jeff,Lyle,JLyle@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Olukemi,Olurin,oolurin@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Kristine,Toews,KToews@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Heather,Larsen,hlarsen@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Kyla,Lindquist,KLindquist@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,"Reported Attack",Delivered,N/A
+Leslee,Winchester,LWinchester@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Phished,Delivered,Complete
+Teresa,McQuaker,TMcQuaker@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Kaija,Maenpaa,KMaenpaa@drhc.on.ca,"You need to reset your account password",06/12/26,Phished,Delivered,Complete
+Dimple,Jose,djose@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Breanne,Wilkinson,BWilkinson@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,"Reported Attack",Delivered,N/A
+Tracy,Calder,tcalder@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Brooke,MacDonald,BMacDonald@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Phished,Delivered,Complete
+Ella,Vincent,EVincent@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Anna,Dunn,ADunn@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Maissey,Randell,mrandell@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Lyndsey,Oliphant,LOliphant@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Andrea,Koury,AKoury@drhc.on.ca,"You need to reset your account password",06/18/26,"Reported Attack",Delivered,N/A
+Tammy,Ford,tford@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Opened,Delivered,N/A
+Vanessa,Ryan,VRyan@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Kim,Wright,kwright@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Kaileigh,Felske,KFelske@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Martina,Wintle,MWintle@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Nemelyn,Sohail,nsohail@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Natasha,Hackman,NHackman@drhc.on.ca,"You need to reset your account password",06/17/26,"Reported Attack",Delivered,N/A
+Kyla,Lindquist,KLindquist@drhc.on.ca,"You need to reset your account password",06/17/26,"Reported Attack",Delivered,N/A
+Clint,Galbraith,cgalbraith@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Kendra,Ladouceur,KLadouceur@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Laura,Heitto,LHeitto@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Chantale,Kujansuu,CKujansuu@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Landon,Matthews,LMatthews@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Ginette,Nichols,GNichols@drhc.on.ca,"You need to reset your account password",06/23/26,Opened,Delivered,N/A
+Deandra,Bowles,DBowles@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Cori,Heselwood,cheselwood@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Carl,Dube,carld@drhc.on.ca,"You need to reset your account password",06/23/26,"Reported Attack",Delivered,N/A
+Laurie,Gamble,LGamble@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,"Reported Attack",Delivered,N/A
+Marcy,Cutts,mcutts@drhc.on.ca,"You need to reset your account password",06/24/26,Phished,Delivered,Complete
+Kate,Eddison,KEddison@drhc.on.ca,"You need to reset your account password",06/18/26,Opened,Delivered,N/A
+Savannah,Kuzemchuk,skuzemchuk@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Phished,Delivered,Complete
+Darci,McGogy,DMcGogy@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Clayton,Bazinet,CBazinet@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Leslee,Winchester,LWinchester@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Keri,Stemkoski,kstemkoski@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Cassandra,Dunkley,CDunkley@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Noreen,Cox,NCox@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Sarah,Wainio,swainio@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Michelle,Church,mchurch@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Deana,Valley,dvalley@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,"Reported Attack",Delivered,N/A
+Azeezah,Patel,APatel@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Phished,Delivered,Complete
+Cas,Leclerc,CLeclerc@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Roschelle,Arseneault,RArseneault@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Danielle,Brockwell,DBrockwell@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Kim,Hicks,KHicks@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Taylor,Johanson,TJohanson@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Kaileigh,Felske,KFelske@drhc.on.ca,"You need to reset your account password",06/24/26,Phished,Delivered,Complete
+Kathryn,Finch,KFinch@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Sheila,Thompson,SThompson@drhc.on.ca,"You need to reset your account password",06/12/26,Opened,Delivered,N/A
+Deana,Valley,dvalley@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Crista,Dube,cdube@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Phished,Delivered,Complete
+Heather,Zappitelli,HZappitelli@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Alanna,Helbling,AHelbling@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,"Reported Attack",Delivered,N/A
+Jared,Meadows,jmeadows@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,"Reported Attack",Delivered,N/A
+Jeffrey,McMenemy,JMcMenemy@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Marilyn,Carlucci,mcarlucci@drhc.on.ca,"You need to reset your account password",06/22/26,Opened,Delivered,N/A
+Vicki,Hutchison,vhutchison@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Doreen,Armstrong-Ross,darmstrong-ross@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,"Reported Attack",Delivered,N/A
+Natasha,Hackman,NHackman@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,"Reported Attack",Delivered,N/A
+Crista,Dube,cdube@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Brian,Patterson,bpatterson@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,"Reported Attack",Delivered,N/A
+Chantale,Kujansuu,CKujansuu@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Anna,Dunn,ADunn@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Kristina,Beaudoin,KBeaudoin@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Jonna,Dale,JDale@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Shauntelle,Pihulak,SPihulak@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,"Reported Attack",Delivered,N/A
+Brad,Hatch,BHatch@drhc.on.ca,"You need to reset your account password",06/12/26,Phished,Delivered,Complete
+Ashley,Fraser,AFraser@drhc.on.ca,"You need to reset your account password",06/19/26,Opened,Delivered,N/A
+Dana,Trott,dtrott@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Tegan,Bull,Tbull@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Mackenzie,Ellery,MEllery@drhc.on.ca,"You need to reset your account password",06/16/26,Opened,Delivered,N/A
+Gerard,Okonkwo,gokonkwo@drhc.on.ca,"You need to reset your account password",06/23/26,Phished,Delivered,Complete
+Darian,Griffiths,dgriffiths@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Roxanne,Ponton,rponton@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Kirandeep,Kaur,kkaur@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Carl,Dube,carld@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Phished,Delivered,Complete
+Jenna,Nault,jnault@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,"Reported Attack",Delivered,N/A
+Claudia,Trist,claudia.trist@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Jill,Bolton,JBolton@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+"Arlene Sande",Lapiz,ALapiz@drhc.on.ca,"You need to reset your account password",06/16/26,Opened,Delivered,N/A
+Lisa,Nickle,lnickle@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Rachel,Hart,RHart@drhc.on.ca,"You need to reset your account password",06/15/26,Opened,Delivered,N/A
+Amy,Armstrong,AArmstrong@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Joan,Mallyon,jmallyon@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,"Reported Attack",Delivered,N/A
+Jade,Fadden,jfadden@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Bhupinder,Kaur,bkaur@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Joan,Mallyon,jmallyon@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Jennifer,Cunningham,JCunningham@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,"Reported Attack",Delivered,N/A
+Reaghann,McGinn,rmcginn@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Tamara,McConnachie,tmcconnachie@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Angie,Lappage,ALappage@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Phished,Delivered,Complete
+Sherry,Farmer,SFarmer@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Jennifer,Millard,jmillard@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Lauren,Dingwall,LDingwall@drhc.on.ca,"You need to reset your account password",06/24/26,Opened,Delivered,N/A
+Zoe,Brenner,ZBrenner@drhc.on.ca,"You need to reset your account password",06/12/26,"Reported Attack",Delivered,N/A
+Brittany,Doherty,bdoherty@drhc.on.ca,"You need to reset your account password",06/22/26,Phished,Delivered,Complete
+Victoria,Wilson,vwilson@drhc.on.ca,"You need to reset your account password",06/16/26,"Reported Attack",Delivered,N/A
+Sarah,Patterson,spatterson@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Urmila,Rathod,urathod@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Lucy,Nabb,lnabb@drhc.on.ca,"Lost dog - image linked - BLIND",06/25/26,Phished,Delivered,Complete
+Jacqueline,Harrison,jharrison@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Jeffrey,McMenemy,JMcMenemy@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Randi,Marcil,RMarcil@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Ashley,Chernosky,AChernosky@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,"Reported Attack",Delivered,N/A
+Thu,Le,TLe@drhc.on.ca,"You need to reset your account password",06/22/26,Opened,Delivered,N/A
+Jennifer,Millard,jmillard@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Shae-Lynn,Lepage,SLepage@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Brigitte,Ford,bford@drhc.on.ca,"You need to reset your account password",06/17/26,"Reported Attack",Delivered,N/A
+Ricki-Lee,Helbling,rlhelbling@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,"Reported Attack",Delivered,N/A
+Troy,Henry,THenry@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Sarah,Wainio,swainio@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Keri,Stemkoski,kstemkoski@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Nicole,Polney,npolny@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,"Reported Attack",Delivered,N/A
+Wendy,Eby,weby@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Jody,Farmer,jfarmer@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Opened,Delivered,N/A
+"Leigh Anne",Nerpin,LNerpin@drhc.on.ca,"You need to reset your account password",06/17/26,Opened,Delivered,N/A
+Alanna,Helbling,AHelbling@drhc.on.ca,"You need to reset your account password",06/17/26,Opened,Delivered,N/A
+Cherie,Parker,CParker@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Carly,Oberg,COberg@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Doreen,Armstrong-Ross,darmstrong-ross@drhc.on.ca,"You need to reset your account password",06/22/26,"Reported Attack",Delivered,N/A
+Laura,Moore,LMoore@drhc.on.ca,"You need to reset your account password",06/12/26,Opened,Delivered,N/A
+Taylor,Dixon,tdixon@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,"Reported Attack",Delivered,N/A
+Danielle,Rutter,DRutter@drhc.on.ca,"You need to reset your account password",06/16/26,"Reported Attack",Delivered,N/A
+Hayden,Lambert,HLambert@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Brian,Patterson,bpatterson@drhc.on.ca,"You need to reset your account password",06/17/26,"Reported Attack",Delivered,N/A
+Kristi,Crossley,KCrossley@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Opened,Delivered,N/A
+Katherine,Campbell,kcampbell@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Bradley,Stooke,bstooke@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Donna-Rae,Carter,DCarter@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Shari,Sidney,ssidney@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Tracie,Rentz,trentz@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Allison,Church,AChurch@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,"Reported Attack",Delivered,N/A
+Jana,Cole,JCole@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Tania,Weigelt,tweigelt@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Phished,Delivered,Complete
+Candace,Fults,cfults@drhc.on.ca,"You need to reset your account password",06/23/26,"Reported Attack",Delivered,N/A
+Kathryn,Apland,KApland@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Ashlie,Klatt,AKlatt@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Ashley,Jacklin,AJacklin@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Mindy,Preuss,MPreuss@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Jillian,Castle,JCastle@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Jill,Bolton,JBolton@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Brittany,Shoguchi,bshoguchi@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Phished,Delivered,Complete
+Ella,Vincent,EVincent@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Laura,Wilson,LWilson@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Delaine,Willet,dwillet@drhc.on.ca,"You need to reset your account password",06/16/26,Opened,Delivered,N/A
+Crystal,Rollins,crollins@drhc.on.ca,"Lost dog - image linked - BLIND",06/25/26,Phished,Delivered,Complete
+Kaylee,Spalding,kspalding@drhc.on.ca,"You need to reset your account password",06/18/26,"Reported Attack",Delivered,N/A
+Cherie,Parker,CParker@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Courtney,Brown,CBrown@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Stephanie,Lizotte,SLizotte@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Lindsay,"St. Aubin",LSt.Aubin@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Meghan,Krantz,MKrantz@drhc.on.ca,"You need to reset your account password",06/17/26,"Reported Attack",Delivered,N/A
+Tina,Hamilton,thamilton@drhc.on.ca,"You need to reset your account password",06/17/26,Opened,Delivered,N/A
+Adria,Frechette,AFrechette@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Randi,Marcil,RMarcil@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Nicole,Polney,npolny@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Alexandra,Advent,AAdvent@drhc.on.ca,"You need to reset your account password",06/19/26,Opened,Delivered,N/A
+Jennifer,Bakos,jbakos@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Allison,Church,AChurch@drhc.on.ca,"You need to reset your account password",06/18/26,"Reported Attack",Delivered,N/A
+Adria,Frechette,AFrechette@drhc.on.ca,"Lost dog - image linked - BLIND",06/25/26,Phished,Delivered,Complete
+Candace,Fults,cfults@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,"Reported Attack",Delivered,N/A
+Jonna,Dale,JDale@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Shauntelle,Pihulak,SPihulak@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Emma,Notte,ENotte@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Tracie,Rentz,trentz@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Pam,Miller,pmiller@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Lydia,Fradsham,lfradsham@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Andra,Boyko,ABoyko@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Jenna,Nault,jnault@drhc.on.ca,"You need to reset your account password",06/16/26,Opened,Delivered,N/A
+Sherri,Haukeness,shaukeness@drhc.on.ca,"You need to reset your account password",06/19/26,"Reported Attack",Delivered,N/A
+Alyssa,Dyck,ADyck@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Kim,Wright,kwright@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Opened,Delivered,N/A
+Sheri,McMenemy,smcmenemy@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Katherine,Campbell,kcampbell@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Nemelyn,Sohail,nsohail@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Jennifer,Cunningham,JCunningham@drhc.on.ca,"You need to reset your account password",06/19/26,"Reported Attack",Delivered,N/A
+Maissey,Randell,mrandell@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Tanner,Allen,TAllen@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Phished,Delivered,Complete
+Lindsay,"St. Aubin",LSt.Aubin@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Mackenzie,Ellery,MEllery@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,"Reported Attack",Delivered,N/A
+Jeramie,Leutschaft,jeramie.leutschaft@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Candace,Glowa,CGlowa@drhc.on.ca,"You need to reset your account password",06/17/26,"Reported Attack",Delivered,N/A
+Mike,Medwid,mmedwid@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,"Reported Attack",Delivered,N/A
+Andrea,Koury,AKoury@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,"Reported Attack",Delivered,N/A
+Lina,Ma,LMa@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Shayna,Stratford,SStratford@drhc.on.ca,"You need to reset your account password",06/24/26,"Reported Attack",Delivered,N/A
+Lucy,Nabb,lnabb@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Bev,Churchill,BChurchill@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,"Reported Attack",Delivered,N/A
+Lesley,Norman,LNorman@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Tina,Oberg,TOberg@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Laurie,Gamble,LGamble@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Jen,Ealy,JEaly@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Taylor,Judson,TJudson@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Marcy,Cutts,mcutts@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Phished,Delivered,Complete
+Kerry,Gagne,kgagne@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Joanne,Shaw,JShaw@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Brittany,Boon,BBoon@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Stephanie,Lizotte,SLizotte@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Janice,Smith,jsmith@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Kirandeep,Kaur,kkaur@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Shannon,Boss,shannonb@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Vicki,Hutchison,vhutchison@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Leah,Jaszczyszak,ljaszczyszak@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Paige,Sidney,PSidney@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Janine,Chevrier,JChevrier@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Cas,Leclerc,CLeclerc@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Brittany,Doherty,bdoherty@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Phished,Delivered,Complete
+Carrie,Doherty,cdoherty@drhc.on.ca,"You need to reset your account password",06/15/26,Opened,Delivered,N/A
+Alice,Hanson,ahanson@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Becky,Advent,BAdvent@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Lexi,Schneider,LSchneider@drhc.on.ca,"You need to reset your account password",06/18/26,Opened,Delivered,N/A
+Rachel,Hart,RHart@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Tania,Galeotafiore,tgaleotafiore@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,"Reported Attack",Delivered,N/A
+Alyssa,Marion,AMarion@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Taylor,Judson,TJudson@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Kolee,Coulis,KCoulis@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Alix,Schollie,aschollie@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Jenna,Langlais,JLanglais@drhc.on.ca,"Lost dog - image linked - BLIND",06/25/26,Phished,Delivered,Complete
+Kerri,Brant,kbrant@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Maurice,Malyk,MMalyk@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Tina,Liddicoat,tliddicoat@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Cheyanne,Lees,CLees@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Alix,Schollie,aschollie@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Micheala,Landrie,MLandrie@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Bev,Churchill,BChurchill@drhc.on.ca,"You need to reset your account password",06/24/26,Phished,Delivered,Complete
+Shae-Lynn,Lepage,SLepage@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Landon,Matthews,LMatthews@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Lina,Ma,LMa@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Hector,Lubi,hlubi@drhc.on.ca,"You need to reset your account password",06/12/26,"Reported Attack",Delivered,N/A
+Riley,Brown,RBrown@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Jessica,Gardner,JGardner@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Terri,Sisco,TSisco@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,"Reported Attack",Delivered,N/A
+Alyssa,Marion,AMarion@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Laura,Moore,LMoore@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Wendy,Kennedy,WKennedy@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Cheyanne,Lees,CLees@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Urmila,Rathod,urathod@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Jennifer,Louttit,jlouttit@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Shari,Sidney,ssidney@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Katie,Gould,KGould@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Corrie,Trist,ctrist@drhc.on.ca,"You need to reset your account password",06/24/26,"Reported Attack",Delivered,N/A
+Lydia,Fradsham,lfradsham@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Kaija,Maenpaa,KMaenpaa@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Lesley,Norman,LNorman@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+"Maria Elena",Thorburn,mthorburn@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Roschelle,Arseneault,RArseneault@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Petra,Funk,PFunk@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,"Reported Attack",Delivered,N/A
+Brad,Hatch,BHatch@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Jay,Ponsones,JPonsones@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Opened,Delivered,N/A
+Veronica,Ross,VRoss@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Savannah,Kuzemchuk,skuzemchuk@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Barbara,Gibbins,bgibbins@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Logan,Groves,LGroves@drhc.on.ca,"You need to reset your account password",06/24/26,Phished,Delivered,Complete
+Jody,Farmer,jfarmer@drhc.on.ca,"You need to reset your account password",06/12/26,Opened,Delivered,N/A
+Mariah,Ricci,MRicci@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Micah,Clarke,MClarke@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Amanda,Williams,AWilliams@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Charlee,McMillan,CMcMillan@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Noreen,Cox,NCox@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Ashton,Young,AYoung@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Lexi,Schneider,LSchneider@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Phished,Delivered,Complete
+Amanpreet,Bhullar,abhullar@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Hector,Lubi,hlubi@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,"Reported Attack",Delivered,N/A
+Crystal,Rollins,crollins@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Brent,Maranzan,bmaranzan@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Bounced,N/A
+Ashlyn,Olson,AOlson@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Diana,Griffiths,diana.griffiths@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Marcie,Weiers,MWeiers@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Mary,Ambridge,MAmbridge@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Taylor,Johanson,TJohanson@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Jennifer,Bakos,jbakos@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Janie,Wear,JWear@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Olivia,Szczepaniak,OSzczepaniak@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Tania,Galeotafiore,tgaleotafiore@drhc.on.ca,"You need to reset your account password",06/12/26,Opened,Delivered,N/A
+Tammy,Goldsbury,tgoldsbury@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Sonia,Lambert,slambert@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Jordan,Gagnon,jgagnon@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Amy,Armstrong,AArmstrong@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+McKenna,Corvello,MCorvello@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Joanne,Shaw,JShaw@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Cathy,West,cwest@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Jennifer,Berle,JBerle@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Megan,George,MGeorge@drhc.on.ca,"You need to reset your account password",06/12/26,Opened,Delivered,N/A
+Jo-Anne,Robinson,jrobinson@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Destiny,Lendrum,DLendrum@drhc.on.ca,"You need to reset your account password",06/24/26,Phished,Delivered,Complete
+Reaghann,McGinn,rmcginn@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Rebecca,Kondra,RKondra@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Zainab,Ibrahim,zibrahim@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Crystal,Adams,cadams@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Kevin,Funk,KFunk@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Laura,Blair,LBlair@drhc.on.ca,"You need to reset your account password",06/19/26,"Reported Attack",Delivered,N/A
+Jen,Ealy,JEaly@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Ashlie,Klatt,AKlatt@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Amy,Hale,AHale@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Becky,Advent,BAdvent@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Diana,Griffiths,diana.griffiths@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Marianne,Gamble,mGamble@drhc.on.ca,"You need to reset your account password",06/19/26,"Reported Attack",Delivered,N/A
+Paige,Sidney,PSidney@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Jenna,Dudar,JDudar@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Jana,Cole,JCole@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Jillian,Castle,JCastle@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Leanne,Taylor,ltaylor@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Bev,Norman,bnorman@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Martina,Wintle,MWintle@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Shannon,Boss,shannonb@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Jeff,Lyle,JLyle@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Samantha,Myers,SMyers@drhc.on.ca,"You need to reset your account password",06/19/26,"Reported Attack",Delivered,N/A
+Candace,Glowa,CGlowa@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,"Reported Attack",Delivered,N/A
+Jennifer,Galbraith,JGalbraith@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Tina,Oberg,TOberg@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Rae-Lynn,Meade,rmeade@drhc.on.ca,"You need to reset your account password",06/17/26,"Reported Attack",Delivered,N/A
+Kal,Hatch,khatch@drhc.on.ca,"Lost dog - image linked - BLIND",06/25/26,Phished,Delivered,Complete
+Camryn,Norman,cnorman@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Opened,Delivered,N/A
+Kim,Hicks,KHicks@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Laura,Heitto,LHeitto@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Tammy,Fuller,tfuller@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Sukhmeet,Kaur,SKaur@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Tammy,Goldsbury,tgoldsbury@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Opened,Delivered,N/A
+Valorie,Dalberg,VDalberg@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Erin,Columbus,EColumbus@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Opened,Delivered,N/A
+Shawna,Levesque,SLevesque@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Katie,Gould,KGould@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Meghan,Krantz,MKrantz@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,"Reported Attack",Delivered,N/A
+Alyssa,Dyck,ADyck@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Charlee,McMillan,CMcMillan@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Cori,Heselwood,cheselwood@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Logan,Groves,LGroves@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Brittany,Shoguchi,bshoguchi@drhc.on.ca,"You need to reset your account password",06/24/26,Phished,Delivered,Complete
+Kristina,Beaudoin,KBeaudoin@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Kristi,Crossley,KCrossley@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Zainab,Ibrahim,zibrahim@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Ashley,Jacklin,AJacklin@drhc.on.ca,"You need to reset your account password",06/23/26,"Reported Attack",Delivered,N/A
+Heather,Roussin,hroussin@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Megan,Kroeker,MKroeker@drhc.on.ca,"You need to reset your account password",06/12/26,Opened,Delivered,N/A
+Siobain,Moore,smoore@drhc.on.ca,"You need to reset your account password",06/19/26,"Reported Attack",Delivered,N/A
+Jacqueline,Harrison,jharrison@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Logan,Waller,LWaller@drhc.on.ca,"You need to reset your account password",06/22/26,"Reported Attack",Delivered,N/A
+Maurice,Malyk,MMalyk@drhc.on.ca,"You need to reset your account password",06/17/26,Opened,Delivered,N/A
+Angela,Barr,abarr@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Taylor,Dixon,tdixon@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Brigitte,Ford,bford@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Stacey,Ehn,SEhn@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,"Reported Attack",Delivered,N/A
+Jeramie,Leutschaft,jeramie.leutschaft@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Lyndsey,Oliphant,LOliphant@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Micheala,Landrie,MLandrie@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Roxanne,Ponton,rponton@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Kristine,Toews,KToews@drhc.on.ca,"You need to reset your account password",06/17/26,Opened,Delivered,N/A
+"Arlene Sande",Lapiz,ALapiz@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Emma,Notte,ENotte@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Hayden,Lambert,HLambert@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Tracy,Zimmerman,tzimmerman@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Tammy,Lang,TLang@drhc.on.ca,"You need to reset your account password",06/22/26,Opened,Delivered,N/A
+Jade,Fadden,jfadden@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Troy,Henry,THenry@drhc.on.ca,"Lost dog - image linked - BLIND",06/25/26,Phished,Delivered,Complete
+Stacey,Friesen,sfriesen@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Victoria,Wilson,vwilson@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Opened,Delivered,N/A
+Kolee,Coulis,KCoulis@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Mary,Ambridge,MAmbridge@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Carissa,Mansfield,CMansfield@drhc.on.ca,"You need to reset your account password",06/23/26,Opened,Delivered,N/A
+Madison,Iwanyk,miwanyk@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Marilyn,Carlucci,mcarlucci@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Tamara,Primmer,TPrimmer@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Riley,Brown,RBrown@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Mackenzie,Evans,MEvans@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Wendy,Kennedy,WKennedy@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Debbie,Satterthwaite,dsatterthwaite@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Logan,Waller,LWaller@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Micah,Clarke,MClarke@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Corrie,Trist,ctrist@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,"Reported Attack",Delivered,N/A
+Azeezah,Patel,APatel@drhc.on.ca,"You need to reset your account password",06/16/26,Phished,Delivered,Complete
+Samantha,Myers,SMyers@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,"Reported Attack",Delivered,N/A
+Susan,Traini,straini@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Rebecca,Kondra,RKondra@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+John,Antonio,JAntonio@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Kate,Eddison,KEddison@drhc.on.ca,"Lost dog - image linked - BLIND",06/25/26,Phished,Delivered,Complete
+Janie,Wear,JWear@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Callie,Keating,CKeating@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Laura,Wilson,LWilson@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Phished,Delivered,Complete
+Mark,Gonske,mgonske@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,"Reported Attack",Delivered,N/A
+Alice,Hanson,ahanson@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Meranda,Wetelainen,HWetelainen@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Dana,Trott,dtrott@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,"Reported Attack",Delivered,N/A
+Tracy,Zimmerman,tzimmerman@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Tamara,Primmer,TPrimmer@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Zoe,Brenner,ZBrenner@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Sara,Degagne,SDegagne@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Clayton,Bazinet,CBazinet@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Johnny,Humphreys,JHumphreys@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Kerry,Gagne,kgagne@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Phished,Delivered,Complete
+Mindy,Preuss,MPreuss@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Phished,Delivered,Complete
+Destiny,Lendrum,DLendrum@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Opened,Delivered,N/A
+Bhupinder,Kaur,bkaur@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Danielle,Rutter,DRutter@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,"Reported Attack",Delivered,N/A
+Shawna,Levesque,SLevesque@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Dimple,Jose,djose@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Terri,Sisco,TSisco@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Tamara,McConnachie,tmcconnachie@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Opened,Delivered,N/A
+Leo,Vandenbrand,LVandenbrand@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Bev,Norman,bnorman@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Allyson,Martin,AMartin@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Jason,Grant,JGrant@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Delaine,Willet,dwillet@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Opened,Delivered,N/A
+Kathryn,Finch,KFinch@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Marianne,Gamble,mGamble@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Heather,Roussin,hroussin@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Petra,Funk,PFunk@drhc.on.ca,"You need to reset your account password",06/12/26,"Reported Attack",Delivered,N/A
+Jessica,Gardner,JGardner@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Erica,Ogilvie,EOgilvie@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Phyllis,Owusu,POwusu@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Valorie,Dalberg,VDalberg@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Kal,Hatch,khatch@drhc.on.ca,"You need to reset your account password",06/16/26,"Reported Attack",Delivered,N/A
+Ashlyn,Olson,AOlson@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Nancy,Saindon,nsaindon@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Katie,Trist,KTrist@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Phished,Delivered,Complete
+Veronica,Ross,VRoss@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Erin,Columbus,EColumbus@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Sheri,McMenemy,smcmenemy@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,"Reported Attack",Delivered,N/A
+Sherri,Haukeness,shaukeness@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,"Reported Attack",Delivered,N/A
+"Maria Elena",Thorburn,mthorburn@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Ashley,Enns,AEnns@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,"Reported Attack",Delivered,N/A
+Teresa,McQuaker,TMcQuaker@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Sarah,Wood,SWood@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Janette,Brannan,jbrannan@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Stacey,Ehn,SEhn@drhc.on.ca,"You need to reset your account password",06/23/26,"Reported Attack",Delivered,N/A
+Angela,Barr,abarr@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Mariah,Ricci,MRicci@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Wendy,Eby,weby@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Phyllis,Owusu,POwusu@drhc.on.ca,"You need to reset your account password",06/18/26,Phished,Delivered,Complete
+Jennifer,Berle,JBerle@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Kelly,Alcock,KAlcock@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Phished,Delivered,Complete
+Kaitlyn,Durance,KDurance@drhc.on.ca,"You need to reset your account password",06/12/26,Opened,Delivered,N/A
+Lindy,Leclerc,LLeclerc@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Erica,Ogilvie,EOgilvie@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Tegan,Bull,Tbull@drhc.on.ca,"You need to reset your account password",06/16/26,Sent,Delivered,N/A
+Kelly,Fillier,KFillier@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Alexandra,Advent,AAdvent@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Kaylee,Spalding,kspalding@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,"Reported Attack",Delivered,N/A
+Megan,Kroeker,MKroeker@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Sarah,Patterson,spatterson@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Jared,Meadows,jmeadows@drhc.on.ca,"You need to reset your account password",06/18/26,"Reported Attack",Delivered,N/A
+Breanne,Wilkinson,BWilkinson@drhc.on.ca,"You need to reset your account password",06/12/26,"Reported Attack",Delivered,N/A
+Karen,Shoguchi,kshoguchi@drhc.on.ca,"You need to reset your account password",06/22/26,Sent,Delivered,N/A
+Heather,Zappitelli,HZappitelli@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Opened,Delivered,N/A
+Danielle,Brockwell,DBrockwell@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Jo-Anne,Robinson,jrobinson@drhc.on.ca,"You need to reset your account password",06/17/26,"Reported Attack",Delivered,N/A
+Janice,Smith,jsmith@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Carly,Oberg,COberg@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Siobain,Moore,smoore@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,"Reported Attack",Delivered,N/A
+Heather,Larsen,hlarsen@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Carissa,Mansfield,CMansfield@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Sent,Delivered,N/A
+Brittany,Boon,BBoon@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Jordan,Bakos,jordanb@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Allyson,Martin,AMartin@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Sheila,Lyle,slyle@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Sukhmeet,Kaur,SKaur@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Darian,Griffiths,dgriffiths@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Opened,Delivered,N/A
+Tina,Liddicoat,tliddicoat@drhc.on.ca,"You need to reset your account password",06/23/26,Sent,Delivered,N/A
+Morgan,Kruger,mkruger@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Phished,Delivered,Complete
+Leo,Vandenbrand,LVandenbrand@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Phished,Delivered,Complete
+Melissa,Harrison,MHarrison@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Phished,Delivered,Complete
+Riley,Wogenstahl,RWogenstahl@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Kelly,Alcock,KAlcock@drhc.on.ca,"You need to reset your account password",06/19/26,Sent,Delivered,N/A
+Chloe,Murdick,CMurdick@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Ashley,Enns,AEnns@drhc.on.ca,"You need to reset your account password",06/16/26,"Reported Attack",Delivered,N/A
+Jennifer,Galbraith,JGalbraith@drhc.on.ca,"You need to reset your account password",06/16/26,"Reported Attack",Delivered,N/A
+Callie,Keating,CKeating@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Jennifer,Louttit,jlouttit@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Opened,Delivered,N/A
+Jay,Ponsones,JPonsones@drhc.on.ca,"You need to reset your account password",06/25/26,Phished,Delivered,Complete
+Kaitlyn,Durance,KDurance@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Brooke,MacDonald,BMacDonald@drhc.on.ca,"You need to reset your account password",06/12/26,"Reported Attack",Delivered,N/A
+Marcie,Weiers,MWeiers@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Sarah,Wood,SWood@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Kara,Siroky,KSiroky@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Chloe,Murdick,CMurdick@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,"Reported Attack",Delivered,N/A
+Olivia,Szczepaniak,OSzczepaniak@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Peter,Hubert,PHubert@drhc.on.ca,"Lost dog - image linked - BLIND",06/17/26,Sent,Delivered,N/A
+Thu,Le,TLe@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Opened,Delivered,N/A
+Rae-Lynn,Meade,rmeade@drhc.on.ca,"Lost dog - image linked - BLIND",06/24/26,Opened,Delivered,N/A
+Debbie,Satterthwaite,dsatterthwaite@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Sheila,Thompson,SThompson@drhc.on.ca,"Lost dog - image linked - BLIND",06/23/26,Sent,Delivered,N/A
+Mark,Gonske,mgonske@drhc.on.ca,"You need to reset your account password",06/22/26,Opened,Delivered,N/A
+Stacey,Friesen,sfriesen@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Tina,Hamilton,thamilton@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Phished,Delivered,Complete
+Sonia,Lambert,slambert@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Phished,Delivered,Complete
+Mike,Medwid,mmedwid@drhc.on.ca,"You need to reset your account password",06/15/26,"Reported Attack",Delivered,N/A
+Susan,Traini,straini@drhc.on.ca,"You need to reset your account password",06/18/26,Sent,Delivered,N/A
+Cassandra,Dunkley,CDunkley@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Cathy,West,cwest@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Michelle,Church,mchurch@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Deandra,Bowles,DBowles@drhc.on.ca,"Lost dog - image linked - BLIND",06/15/26,Sent,Delivered,N/A
+Tammy,Lang,TLang@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Karen,Shoguchi,kshoguchi@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Clint,Galbraith,cgalbraith@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Marc,Hansson,MHansson@drhc.on.ca,"You need to reset your account password",06/24/26,Phished,Delivered,Complete
+Katie,Trist,KTrist@drhc.on.ca,"You need to reset your account password",06/22/26,"Reported Attack",Delivered,N/A
+Sierra,Doudiet,SDoudiet@drhc.on.ca,"You need to reset your account password",06/15/26,Sent,Delivered,N/A
+Nancy,Saindon,nsaindon@drhc.on.ca,"Lost dog - image linked - BLIND",06/19/26,Sent,Delivered,N/A
+Kelly,Fillier,KFillier@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Courtney,Brown,CBrown@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Lindy,Leclerc,LLeclerc@drhc.on.ca,"Lost dog - image linked - BLIND",06/22/26,Sent,Delivered,N/A
+Emily,Gamble,EGamble@drhc.on.ca,"You need to reset your account password",06/12/26,Sent,Delivered,N/A
+Kerri,Brant,kbrant@drhc.on.ca,"You need to reset your account password",06/24/26,Sent,Delivered,N/A
+Riley,Wogenstahl,RWogenstahl@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Laura,Blair,LBlair@drhc.on.ca,"Lost dog - image linked - BLIND",06/18/26,Sent,Delivered,N/A
+Olukemi,Olurin,oolurin@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Sent,Delivered,N/A
+Darci,McGogy,DMcGogy@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+John,Antonio,JAntonio@drhc.on.ca,"Lost dog - image linked - BLIND",06/12/26,Sent,Delivered,N/A
+Donna-Rae,Carter,DCarter@drhc.on.ca,"You need to reset your account password",06/17/26,Sent,Delivered,N/A
+Kendra,Ladouceur,KLadouceur@drhc.on.ca,"Lost dog - image linked - BLIND",06/16/26,Phished,Delivered,Complete
