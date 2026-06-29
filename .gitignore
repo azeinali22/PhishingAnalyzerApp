@@ -1,0 +1,10 @@
+build/
+dist/
+*.spec
+*.exe
+__pycache__/
+*.pyc
+desktop.ini
+Hospitals/
+*.csv
+*.pdf
